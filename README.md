@@ -9,4 +9,9 @@
 |      | AlertDialog           | [进入](https://github.com/q695356217/Github/tree/master/AlertDialog) |
 |      | XMLmenu               | [进入](https://github.com/q695356217/Github/tree/master/XMLmenu) |
 |      | ActionMode            | [进入](https://github.com/q695356217/Github/tree/master/ActionMode) |
+| 作业五  | PreferenceFragment    | [进入](https://github.com/q695356217/Github/tree/master/PrefereceFragment) |
+| 作业六  | Intent                | [进入](https://github.com/q695356217/Github/tree/master/Intent) |
+|      |                       |                                          |
+|      |                       |                                          |
+|      |                       |                                          |
 
